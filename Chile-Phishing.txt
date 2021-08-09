@@ -1,0 +1,8 @@
+# Filters for Chile related phishing sites for PiHole
+
+sms-n.com
+netsms.digital
+validasmschile.website
+san-derbco.one
+digital-sms.xyz
+chilesms-valida.xyz
