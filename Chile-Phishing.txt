@@ -6,3 +6,5 @@ validasmschile.website
 san-derbco.one
 digital-sms.xyz
 chilesms-valida.xyz
+app.cl-itau.com
+app.itau-cl.com
