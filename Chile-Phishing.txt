@@ -12,3 +12,5 @@ dealerclosed.com
 app.aplicativo-itau.com
 r.starken-chile.live
 r.banco-security.site
+r.cl-sec8756.ltd
+personas.cl-sec8756.ltd
