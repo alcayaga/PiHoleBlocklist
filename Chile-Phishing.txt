@@ -11,3 +11,4 @@ app.itau-cl.com
 dealerclosed.com
 app.aplicativo-itau.com
 r.starken-chile.live
+r.banco-security.site
