@@ -34,3 +34,4 @@ geo.emol.cl
 analytics.emol.com
 matt.mercadolibre.cl
 apm-server.ripleytech.io
+r.security-cl.live
