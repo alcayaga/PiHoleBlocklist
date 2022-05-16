@@ -35,3 +35,5 @@ analytics.emol.com
 matt.mercadolibre.cl
 apm-server.ripleytech.io
 r.security-cl.live
+findmyphone-us1.co
+iclouds-applesecurite.com
