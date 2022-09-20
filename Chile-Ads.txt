@@ -1,0 +1,11 @@
+# Filters for Chile Ads & Privacy sites for PiHole
+
+track.bluecompany.cl
+tracker.lgcontent.cl
+ads.13.cl
+ads.buscape.cl
+ads.canal13.cl
+geo.emol.cl
+analytics.emol.com
+matt.mercadolibre.cl
+apm-server.ripleytech.io

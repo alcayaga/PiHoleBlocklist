@@ -25,15 +25,6 @@ jenthashop.com
 personas.gruposecurity.live
 cnct.us
 network-internet.com
-track.bluecompany.cl
-tracker.lgcontent.cl
-ads.13.cl
-ads.buscape.cl
-ads.canal13.cl
-geo.emol.cl
-analytics.emol.com
-matt.mercadolibre.cl
-apm-server.ripleytech.io
 r.security-cl.live
 findmyphone-us1.co
 iclouds-applesecurite.com
