@@ -10,3 +10,5 @@ analytics.emol.com
 matt.mercadolibre.cl
 apm-server.ripleytech.io
 rvv.pdnegocios.cl
+res.soicos.com
+ad.soicos.com
