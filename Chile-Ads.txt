@@ -18,3 +18,4 @@ track.leadsinbx.com
 www.mlog6.cl
 click.info.muvify.cl
 image.info.muvify.cl
+click.info.consorcio.cl
