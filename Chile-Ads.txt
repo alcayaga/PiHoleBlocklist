@@ -23,3 +23,4 @@ theredtracking.online
 smartmail1.cl
 r.smartmail2.cl
 img.smartmail2.cl
+cdn.exponea.com
