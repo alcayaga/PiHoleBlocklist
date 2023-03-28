@@ -20,3 +20,6 @@ click.info.muvify.cl
 image.info.muvify.cl
 click.info.consorcio.cl
 theredtracking.online
+smartmail1.cl
+r.smartmail2.cl
+img.smartmail2.cl
