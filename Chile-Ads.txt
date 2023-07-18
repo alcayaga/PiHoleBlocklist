@@ -33,4 +33,6 @@ cron.anwo.ecrm.cl
 click.promote.weebly.com
 trdrs.falcometric.com
 t.sidekickopen01.com
+draft.wpchile.com
+url2905.anwo.cl
 cxpgdastprod.blob.core.windows.net
