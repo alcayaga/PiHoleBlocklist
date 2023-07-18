@@ -33,3 +33,4 @@ cron.anwo.ecrm.cl
 click.promote.weebly.com
 trdrs.falcometric.com
 t.sidekickopen01.com
+cxpgdastprod.blob.core.windows.net
