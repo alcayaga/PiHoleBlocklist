@@ -41,3 +41,6 @@ cl.opssa.dubya.us
 sercarnet.cl
 r.chile-express.network
 envios.chile-express.network
+sysa.cl
+r.net-app.app
+account.net-app.app
