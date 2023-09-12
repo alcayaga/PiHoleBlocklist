@@ -44,3 +44,5 @@ envios.chile-express.network
 sysa.cl
 r.net-app.app
 account.net-app.app
+r.sec-movil.site
+personas.sec-movil.site
