@@ -46,3 +46,5 @@ r.net-app.app
 account.net-app.app
 r.sec-movil.site
 personas.sec-movil.site
+uspts.shop
+corrpls-tb-cl.top
