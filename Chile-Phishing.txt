@@ -48,3 +48,4 @@ r.sec-movil.site
 personas.sec-movil.site
 uspts.shop
 corrpls-tb-cl.top
+x7.cl
