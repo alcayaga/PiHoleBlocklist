@@ -1,0 +1,4 @@
+# Filters for Worldwide related tracking sites for PiHole
+
+users.techtarget.com
+geocoding.internetbrands.com
