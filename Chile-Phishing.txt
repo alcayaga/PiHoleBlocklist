@@ -52,3 +52,4 @@ x7.cl
 www.post-query.fun
 cl.bancoestado-alertas.com
 cl.bancoestado-web.info
+cl.osker.yourtrap.com
