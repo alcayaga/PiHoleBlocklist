@@ -1,0 +1,14 @@
+# Filters for Smart TV sites for PiHole
+
+||ibs.lgappstv.com^
+||ad.lgsmartad.com^
+||info.lgsmartad.com^
+||rdx2.lgtvsdp.com^
+||cdpbeacon.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||lgsmartad.com^
+||service.lgtvcommon.com^
