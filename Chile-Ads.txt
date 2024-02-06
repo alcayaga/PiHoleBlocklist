@@ -12,8 +12,6 @@ apm-server.ripleytech.io
 rvv.pdnegocios.cl
 res.soicos.com
 ad.soicos.com
-trackercl1.fidelizador.com
-staticcl1.fidelizador.com
 cl.hirefrederick.com
 track.leadsinbx.com
 www.mlog6.cl
@@ -31,8 +29,8 @@ vinculosdinamicos.online
 redtkr.online
 lastretry.online
 mailing.castilloycia.cl
-cron.anwo.ecrm.cl
 click.promote.weebly.com
+p.weebly.com
 trdrs.falcometric.com
 t.sidekickopen01.com
 draft.wpchile.com
@@ -43,3 +41,10 @@ record.ibetaffiliates.com
 inxmail.unab.cl
 metric.ldsglbru.com
 ofertas-life2023.web.app
+||global-analitics.net^
+||go2cloud.org^
+||ecrm.cl^
+||fidelizador.com^
+||masterbase.com^
+||pxf.io^
+||mx-router-i.com^
