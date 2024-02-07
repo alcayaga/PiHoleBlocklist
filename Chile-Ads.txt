@@ -41,6 +41,7 @@ record.ibetaffiliates.com
 inxmail.unab.cl
 metric.ldsglbru.com
 ofertas-life2023.web.app
+app.destacadosvip.com
 ||global-analitics.net^
 ||go2cloud.org^
 ||ecrm.cl^
