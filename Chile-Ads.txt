@@ -7,6 +7,7 @@ ads.buscape.cl
 ads.canal13.cl
 geo.emol.cl
 analytics.emol.com
+selfcdn.emol.cl
 matt.mercadolibre.cl
 apm-server.ripleytech.io
 rvv.pdnegocios.cl
