@@ -1,0 +1,4 @@
+# Filters for Phishing / Malware related tracking sites for PiHole
+
+plantsurfers.com
+||travelguruss.com^
