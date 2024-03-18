@@ -45,6 +45,7 @@ ofertas-life2023.web.app
 app.destacadosvip.com
 l.warsare.pro
 n.newstalles.de
+mailing.castilloycia.cl
 ||global-analitics.net^
 ||go2cloud.org^
 ||ecrm.cl^
@@ -52,3 +53,4 @@ n.newstalles.de
 ||masterbase.com^
 ||pxf.io^
 ||mx-router-i.com^
+||lnjmp.com^
