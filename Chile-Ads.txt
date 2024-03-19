@@ -46,6 +46,7 @@ app.destacadosvip.com
 l.warsare.pro
 n.newstalles.de
 mailing.castilloycia.cl
+newsletter.equipodefensa.com
 ||global-analitics.net^
 ||go2cloud.org^
 ||ecrm.cl^
