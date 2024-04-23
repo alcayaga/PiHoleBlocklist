@@ -47,6 +47,7 @@ l.warsare.pro
 n.newstalles.de
 mailing.castilloycia.cl
 newsletter.equipodefensa.com
+mailing.nvp-properties.com
 ||global-analitics.net^
 ||go2cloud.org^
 ||ecrm.cl^
