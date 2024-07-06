@@ -57,3 +57,4 @@ mailing.nvp-properties.com
 ||mx-router-i.com^
 ||lnjmp.com^
 ||web.tstes.net^
+||correomasivochile.com^
