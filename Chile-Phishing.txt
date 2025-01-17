@@ -87,3 +87,4 @@ entelapp.top
 entelolcl.top
 ||trazada.com^
 ||inicio-cl.info^
+||x10.mx^
