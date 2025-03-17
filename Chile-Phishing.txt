@@ -98,6 +98,7 @@ fulicopecl-url.cc
 fullcopecpts.cc
 mercadolibre-cl.top
 contabetano.com
+micopilotopoints.com
 ||trazada.com^
 ||inicio-cl.info^
 ||x10.mx^
