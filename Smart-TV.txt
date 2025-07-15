@@ -12,3 +12,4 @@
 ||recommend.lgtvcommon.com^
 ||lgsmartad.com^
 ||service.lgtvcommon.com^
+ngfts.nextlgsdp.com
