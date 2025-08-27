@@ -99,6 +99,7 @@ fullcopecpts.cc
 mercadolibre-cl.top
 contabetano.com
 micopilotopoints.com
+www.turkuchinesechurch.org
 ||trazada.com^
 ||inicio-cl.info^
 ||x10.mx^
