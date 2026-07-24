@@ -1,12 +1,13 @@
 # Pi-hole Blocklists
 
-A collection of domain-based blocklists and filters optimized for Pi-hole to block ads, tracking, phishing, and malware, with a focus on Chilean domains and Smart TV telemetry.
+A collection of domain-based blocklists and filters optimized for Pi-hole to block ads, tracking, phishing, gambling, and malware, with a focus on Chilean domains and Smart TV telemetry.
 
 ## Available Blocklists
 
 | List File | Description | Format |
 | :--- | :--- | :--- |
 | **[Chile-Ads.txt](file:///Users/pablo/Documents/GitHub/PiHoleBlocklist/Chile-Ads.txt)** | Filters for Chile-specific advertisement, telemetry, and tracking domains. | Domain List |
+| **[Chile-Gambling.txt](file:///Users/pablo/Documents/GitHub/PiHoleBlocklist/Chile-Gambling.txt)** | Filters for Chilean gambling and online betting domains. | Adblock Plus (ABP) Format |
 | **[Chile-Phishing.txt](file:///Users/pablo/Documents/GitHub/PiHoleBlocklist/Chile-Phishing.txt)** | Blocklist for Chilean phishing, scam, and fraudulent websites. | Domain List |
 | **[Smart-TV.txt](file:///Users/pablo/Documents/GitHub/PiHoleBlocklist/Smart-TV.txt)** | Filters targeting Smart TV telemetry (specifically LG Smart TVs) and advertising. | Adblock Plus (ABP) Format |
 | **[World-Phishing.txt](file:///Users/pablo/Documents/GitHub/PiHoleBlocklist/World-Phishing.txt)** | Global phishing and malware tracking sites. | Mixed Format |
@@ -22,6 +23,8 @@ To use these blocklists in your Pi-hole setup, follow these step-by-step instruc
 Choose the blocklist you want to add and copy its raw URL. For example:
 * **Chile Ads & Tracking:**
   `https://raw.githubusercontent.com/alcayaga/PiHoleBlocklist/main/Chile-Ads.txt`
+* **Chile Gambling:**
+  `https://raw.githubusercontent.com/alcayaga/PiHoleBlocklist/main/Chile-Gambling.txt`
 * **Chile Phishing:**
   `https://raw.githubusercontent.com/alcayaga/PiHoleBlocklist/main/Chile-Phishing.txt`
 * **Smart TV Telemetry:**
